@@ -1,0 +1,38 @@
+﻿  glad.c
+  Camera.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  ComputeShader.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  CubeRobot.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Frustum.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  GameTimer.cpp
+  HeightMap.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\HeightMap.cpp(28,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\HeightMap.cpp(28,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\HeightMap.cpp(29,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\HeightMap.cpp(29,36): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Keyboard.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Mesh.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  MeshAnimation.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  OGLRenderer.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Shader.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Window.cpp
+C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  nclgl.vcxproj -> C:\Users\Administrator\Desktop\CSC85022002\Advanced Graphics for Games - CSC8502\Outer Space-main\x64\Debug\nclgl.lib
